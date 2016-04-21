@@ -1,8 +1,11 @@
 # Spinner
 Spinner is a widget similar to a drop down list for selecting items. Spinner allows you to select an item from a drop down menu. It provides an easy way to select the value from a list. Clicking spinner will display a drop-down list with the available values.
+
 ![alt tag](https://github.com/Wan20/MyApps/blob/Spinner/Spinner1.png)
 ![alt tag](https://github.com/Wan20/MyApps/blob/Spinner/Spinner2.png)
-
+![alt tag](https://github.com/Wan20/MyApps/blob/Spinner/Spinner3.png)
+![alt tag](https://github.com/Wan20/MyApps/blob/Spinner/Spinner4.png)
+![alt tag](https://github.com/Wan20/MyApps/blob/Spinner/Spinner5.png)
 ###Note:
 
 If you want to know more, you can learn like me about this SPINNER, from this web: 
